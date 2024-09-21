@@ -6,6 +6,7 @@
         "email": "tvmarkomantv@gmail.com"
     },
     "record": {
-        "CNAME": "anubissk.github.io"
+        "CNAME": "anubissk.github.io",
+        "TXT": "<github-verification-string>"
     }
 } 
