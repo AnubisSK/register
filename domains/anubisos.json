@@ -1,0 +1,11 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/AnubisSK/anubisos",
+    "owner": {
+        "username": "AnubisSK",
+        "email": "tvmarkomantv@gmail.com"
+    },
+    "record": {
+        "CNAME": "anubissk.github.io"
+    }
+} 
